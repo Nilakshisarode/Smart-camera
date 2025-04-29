@@ -1,2 +1,1 @@
-# Smart-camera
-smart camera
+This is basic python based motion detection system using Open CV. It captures video from your webcam, detects motion by comparing frame differences, and plays a beep sound when significant movement is detected.
